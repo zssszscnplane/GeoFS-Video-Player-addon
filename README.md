@@ -1,6 +1,6 @@
 # GeoFS Video Player Addon — New User Tutorial
 
-> Plugin: GeoFS-Video-Player-addon  
+> Addon: GeoFS-Video-Player-addon  
 > Project: https://github.com/zssszscnplane/GeoFS-Video-Player-addon  
 
 ---
@@ -153,7 +153,7 @@ Usually you can paste the video link into the player. However, availability depe
 
 ## 7. Links
 
-- Plugin Project:  
+- Addon Project:  
   https://github.com/zssszscnplane/GeoFS-Video-Player-addon
 
 - Tampermonkey Website:  
