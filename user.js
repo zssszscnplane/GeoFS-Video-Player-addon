@@ -17,7 +17,7 @@
 
   const I18N = {
     zh: {
-      videoBtn: '视频',
+      videoBtn: 'Video',
       titleMain: 'GeoFS 视频播放器',
       titleSub: '由 哔哩哔哩-我是小猪05 小红书-起飞吧！凤凰牌飞机！ GitHub-zssszscnplane制作',
       loadUrl: '加载 URL',
